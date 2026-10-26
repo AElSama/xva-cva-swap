@@ -1,0 +1,12 @@
+{
+  "par_rate_pct": 2.6097,
+  "mc_value_t0_check": 0.0,
+  "peak_EE": 160387.0,
+  "peak_PFE_95": 634850.0,
+  "EPE_1y": 77788.0,
+  "CVA_uncollateralised": 7158.0,
+  "DVA": 4652.0,
+  "CVA_collateralised": 483.0,
+  "BCVA": 2506.0,
+  "CVA_bp_of_notional": 7.16
+}
